@@ -16,7 +16,7 @@ public static void displayMenu()
   }
   
   
-  else if (userMenuChoice.equals("3") || userMenuChoice.equals("E") || userMenuChoice.equals("e"))
+    else if (userMenuChoice.equals("3") || userMenuChoice.equals("E") || userMenuChoice.equals("e"))
       
       {
        
