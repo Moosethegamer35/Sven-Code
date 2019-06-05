@@ -14,6 +14,18 @@ public static void displayMenu()
     
     System.out.println("\033[1;41m" + EXIT_CHOICE + ". (E)xit\033[0m\033[32m");
   }
+  
+  
+  else if (userMenuChoice.equals("3") || userMenuChoice.equals("E") || userMenuChoice.equals("e"))
+      
+      {
+       
+       System.out.println("Exit");
+       
+       System.out.println("Goodbye! Have a nice day! SF");
+       
+       break;
+      }
 
 Sven ASCII Art:
 
