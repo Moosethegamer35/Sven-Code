@@ -17,7 +17,6 @@ Sven ASCII Art:
 
  public static void displayMachine()
   {
-    System.out.println("  \033[34m  _____   ___     ___  _______  __  __           ");
      
      System.out.println("  \033[34m / ____|  \\ \\    / /  |  ____| | \\ | |       ");
      
