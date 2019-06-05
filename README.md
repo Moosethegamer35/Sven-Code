@@ -6,6 +6,7 @@ Exit Method:
 
 public static void displayMenu()
   {  
+    
     System.out.println("\033[43m1. (A)dmin Mode\033[0m");
     
     System.out.println("\033[46m2. (C)ustomer Mode\033[0m");
