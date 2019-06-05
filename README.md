@@ -5,6 +5,7 @@ See code: https://repl.it/@SeamusFiloon/Java-Sven-11
 Exit Method:
 
 public static void displayMenu()
+  
   {  
     
     System.out.println("\033[43m1. (A)dmin Mode\033[0m");
@@ -17,6 +18,7 @@ public static void displayMenu()
 Sven ASCII Art:
 
  public static void displayMachine()
+  
   {
      
      System.out.println("  \033[34m / ____|  \\ \\    / /  |  ____| | \\ | |       ");
