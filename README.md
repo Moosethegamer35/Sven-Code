@@ -2,7 +2,7 @@
 
 See code: https://repl.it/@SeamusFiloon/Java-Sven-11
 
-Exit Method:
+# Exit Method:
 
     public static void displayMenu()
   
@@ -27,7 +27,7 @@ Exit Method:
        break;
       }
 
-Sven ASCII Art:
+# Sven ASCII Art:
 
     public static void displayMachine()
   
